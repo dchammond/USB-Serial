@@ -6,6 +6,7 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.*-bak
 *~
 _autosave-*
 *.tmp
@@ -24,3 +25,5 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+
+*.zip
